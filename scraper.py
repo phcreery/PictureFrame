@@ -26,8 +26,8 @@ tag="overland"	#hashtag
 getuser="peyton_creery"
 #getuser="melissahaileyy,peyton_creery,_huntercreery_,shortstache,petermckinnon,forgeoverland,thelevelcollective,roamtheplanet"
 user=True
-username="peyton_creery"
-password="Twinsrock98"
+username="user"
+password="pass"
 
 print "Peyton's Instagram scraper v1.0"
 print "whats new:"
@@ -330,20 +330,4 @@ while run:
 	pygame.display.flip()
 	
 	print "loop"
-	#time.sleep(2)
-	
-	#api = InstagramAPI("peyton_creery", "Twinsrock98")
-	#api.login()
 
-	# user_id = '1461295173'
-	#user_id = api.username_id
-	
-	# List of all followers
-	#followers = getTotalFollowers(api, user_id)
-	#print 'Number of followers:', len(followers)
-	
-	# Alternatively, use the code below
-	# (check evaluation.evaluate_user_followers for further details).
-	#followers = api.getTotalFollowers(user_id)
-	#print('Number of followers:', len(followers))
-	
