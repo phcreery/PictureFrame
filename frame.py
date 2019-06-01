@@ -12,8 +12,6 @@ import json
 import datetime
 from InstagramAPI import InstagramAPI
 from roundrects import round_rect
-#from pygame import *
-#from __future__ import division
 
 os.environ["SDL_FBDEV"] = "/dev/fb1"
 # Uncomment if you have a touch panel and find the X value for your device
@@ -206,20 +204,4 @@ while run:
 	pygame.display.flip()
 	
 	print "loop"
-	#time.sleep(2)
-	
-	#api = InstagramAPI("peyton_creery", "Twinsrock98")
-	#api.login()
-
-	# user_id = '1461295173'
-	#user_id = api.username_id
-	
-	# List of all followers
-	#followers = getTotalFollowers(api, user_id)
-	#print 'Number of followers:', len(followers)
-	
-	# Alternatively, use the code below
-	# (check evaluation.evaluate_user_followers for further details).
-	#followers = api.getTotalFollowers(user_id)
-	#print('Number of followers:', len(followers))
 	
