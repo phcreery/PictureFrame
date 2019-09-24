@@ -8,7 +8,7 @@ Raspberry Pi + 3.2" GPIO LCD + Instagram/Collection
 Raspberry Pi based instagram image scraper and slideshow picture frame.
 
 2 Files:
- - **scraper.py** scraps Instagram for pictures based on Username or Hashtag
+ - **scraper.py** scraps Instagram for pictures based on Username or Hashtag & displays them
  - **frame.py** displays imaged that are locally stored
  
  ## Prerequisites
