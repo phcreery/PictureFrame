@@ -17,6 +17,7 @@ Raspberry Pi based instagram image scraper and slideshow picture frame.
   - pygame
   - [instagram-scraper](https://github.com/rarcega/instagram-scraper) to download the images
   - [Instagram-API-python](https://github.com/LevPasha/Instagram-API-python) to get follower count
+  - [Mekire/rounded-rects-pygame/roundrects/roundrects.py](https://github.com/Mekire/rounded-rects-pygame/blob/master/roundrects/roundrects.py)
   
   ## Running
   
